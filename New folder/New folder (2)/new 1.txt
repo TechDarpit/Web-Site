@@ -1,0 +1,9 @@
+  <div class="row">
+    <div class="col-20">
+      <label for="password">Re Password</label>
+	  <label style=color:red>*</label>
+    </div>
+    <div class="col-30">
+      <input type="password" id="repassword" name="repassword"  placeholder="Re-Enter Your Password" required>
+    </div>
+  </div>
